@@ -1,0 +1,8 @@
+{
+  "name": "dvtDemo",
+  "app_id": "489f5b60",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
